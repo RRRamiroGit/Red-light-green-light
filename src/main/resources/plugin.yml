@@ -1,0 +1,10 @@
+name: RedLightGreenLight
+version: 1.0
+main: net.randompvp.rlgl.Rlgl
+api-version: 1.17
+author: RRRamiro
+
+commands:
+  redlightgreenlight:
+    description: Can start and stop the game
+    aliases: rlgl
